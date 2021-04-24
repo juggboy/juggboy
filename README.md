@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @juggboy
+- 👀 I’m interested in program
+- 🌱 I’m currently learning HTML/CSS
+- 💞️ I’m looking to collaborate on indies games
+- 📫 How to reach me just send me an email
